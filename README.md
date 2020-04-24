@@ -1,6 +1,6 @@
 # Minicurso de Programação - Programa-Sama 1
 
-* [Proposta](PROPOSTA)
+* [Proposta](PROPOSTA.md)
 
 ## Conteúdo
 
