@@ -1,4 +1,4 @@
-# Minicurso de Programação - Programa-Sama 1
+# Minicurso ProgramaSama
 
 * [Proposta](PROPOSTA.md)
 
