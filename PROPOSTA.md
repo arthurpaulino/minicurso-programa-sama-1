@@ -6,9 +6,9 @@ Este curso tem como objetivo propiciar aos participantes um contato inicial com
 conceitos básicos de programação, abrindo espaço para um engajamento mais
 aprofundado segundo o interesse despertado em cada um.
 
-## Facilitador
+## Facilitadores
 
-Arthur Leonardo de Alencar Paulino
+#### Arthur Leonardo de Alencar Paulino
 
 * Bacharel em Ciência da Computação pela Universidade Federal do Ceará
     * Pesquisador financiado pelo CNPq na área de *Otimização Computacional*
@@ -16,6 +16,14 @@ Arthur Leonardo de Alencar Paulino
 * Mestre em Ciência da Computação pela Universidade Federal do Ceará
     * Pesquisador financiado pela CAPES na área de *Inteligência Artificial*
 * Atuação profissional atual: Cientista de Dados no Nubank
+
+#### Gustavo Santos de Andrade
+
+* Técnico em informática pela Escola SENAI Suiço Brasileira
+* Bachareal em Administração pela Universidade de Santo Amaro
+* MBA em Gestão de Tecnologia de informação pela Universidade de Santo Amaro
+* Pós-Graduação em Tecnologia de informação bancária pela Poli/USP
+* Atuação profissional atual: Analista de Sistemas no Itau-Unibanco
 
 ## Pré-requisitos
 
