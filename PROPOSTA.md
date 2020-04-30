@@ -28,9 +28,7 @@ aprofundado segundo o interesse despertado em cada um.
 ## Pré-requisitos
 
 * Ter um computador disponível para viabilizar a participação nas aulas,
-resolução de exercícios e acesso ao conteúdo;
-
-* Ter pelo menos 12 anos de idade.
+resolução de exercícios e acesso ao conteúdo.
 
 ## Público alvo
 
@@ -39,7 +37,7 @@ Esta primeira edição do curso terá 25 vagas, com prioridade para jovens de 12
 
 ## Andamento
 
-* O curso será ministrado remotamente via Hangouts por meio de aulas expositivas
+* O curso será ministrado remotamente via Zoom por meio de aulas expositivas
 e participativas;
 
 * Haverá dois encontros por semana, um aos domingos e outro às quartas-feiras,
@@ -53,17 +51,12 @@ de tirar dúvidas relacionadas aos conteúdos e aos exercícios apresentados nos
 domingos;
 
 * Ao final dos encontros das quartas-feiras, os conteúdos das aulas de domingo
-serão disponibilizados nesta página.
+serão disponibilizados na página inicial do site do curso.
 
 ## Organização
 
-Todo o conteúdo do curso será centralizado nesta página, que fornece as
-ferramentas para a participação de todos. Podemos criar arquivos, modificá-los
-ou apagá-los sem nunca de fato perdemos a informação, pois todas as modificações
-ficam registradas.
-
-A sessão seguinte contem os links para os assuntos abordados no decorrer do
-curso.
+Todo o conteúdo do curso será centralizado nesta plataforma, que fornece as
+ferramentas para a participação de todos.
 
 ## Ementa
 
