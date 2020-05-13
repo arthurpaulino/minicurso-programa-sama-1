@@ -94,5 +94,4 @@ problemas simples a serem resolvidos de forma isolada
 
 O encontro do quarto domingo terá como foco a apresentação de uma estrutura de
 dados chamada *lista*. Será também proposto um exercício cujo objetivo é
-revisitar todas as ferramentas do curso. A resolução deste será considerada
-como um trabalho de conclusão.
+revisitar todas as ferramentas do curso.
