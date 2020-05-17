@@ -40,18 +40,15 @@ Esta primeira edição do curso terá 25 vagas, com prioridade para jovens de 12
 * O curso será ministrado remotamente via Zoom por meio de aulas expositivas
 e participativas;
 
-* Haverá dois encontros por semana, um aos domingos e outro às quartas-feiras,
+* Haverá dois encontros por semana, um aos sábados e outro às quartas-feiras,
 totalizando **oito** encontros;
 
-* Os encontros dos domingos terão a duração de 2 (duas) horas, cujo foco é a
-apresentação de novos conteúdos e exercícios;
+* Os encontros dos sábados começarão às 15h e terão duração de até 2 (duas)
+horas. O foco destes encontros é a apresentação de novos conteúdos e exercícios;
 
 * Os encontros das quartas-feiras terão a duração de 1 (uma) hora e o objetivo
 de tirar dúvidas relacionadas aos conteúdos e aos exercícios apresentados nos
-domingos;
-
-* Ao final dos encontros das quartas-feiras, os conteúdos das aulas de domingo
-serão disponibilizados na página inicial do site do curso.
+domingos.
 
 ## Organização
 
@@ -70,7 +67,7 @@ tópicos:
 1. Carreiras e benefícios intelectuais
 2. Programas de computador e algoritmos
 
-#### Python, memória e variáveis
+#### Memória, variáveis e Python
 
 No segundo domingo do curso, os participantes conhecerão um pouco da linguagem
 Python e os seguintes conceitos fundamentais para a Computação: memória e
