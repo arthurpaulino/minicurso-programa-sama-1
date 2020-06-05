@@ -2,8 +2,9 @@
 
 ## Questão 1
 
-Leia o texto abaixo, escrito por Linus Torvalds (criador do Linux), traduzido e
-adaptado por Arthur Paulino.
+Leia o texto abaixo,
+[escrito por Linus Torvalds](https://www.brynmawr.edu/cs/resources/beauty-of-programming)
+(criador do Linux), traduzido e adaptado por Arthur Paulino.
 
 ```
 A Beleza da Programação
@@ -26,10 +27,10 @@ caracteriza uma companhia amigável. O que faz da programação algo tão
 interessante é que, embora você comandar o computador para fazer o que você
 quer, você precisa descobrir como.
 
-Eu realmente penso que a ciência da computação e a física têm muito em comum.
+Eu realmente penso que a Ciência da Computação e a Física têm muito em comum.
 Ambas áreas de conhecimento estudam o mundo em um nível muito fundamental. A
-diferença, claro, é que enquanto que na física você quer descobrir como o mundo
-funciona, na ciência da computação você cria o mundo. Nos confins do computador
+diferença, claro, é que enquanto que na Física você quer descobrir como o mundo
+funciona, na Ciência da Computação você cria o mundo. Nos confins do computador
 você é quem cria tudo e controla tudo que acontece. E se você tiver habilidade o
 suficiente, você tem bastante poder nas mãos.
 
@@ -45,15 +46,35 @@ funcionalidade frequentemente é secundária em relação à elegância da solu�
 
 É um exercício de criatividade.
 
-O que me chamou atenção na programação logo no início foi o processo de entender
-como o computador funcionava.
-```
+Existe uma história a respeito do grande matemático alemão Carl Friedrich Gauss.
+O professor não sabia o que fazer e disse para seus alunos somarem todos os
+números de 1 a 100. O professor esperava que todos os alunos ficassem presos
+naquela atividade o dia inteiro, mas Gauss chegou com a resposta em 5 minutos:
+5050. Em sua solução, ele não somou todos os números. O que ele fez foi olhar
+o problema mais a fundo e perceber um padrão. Quando ele somava 1 e 100, o
+resultado era 101. Quando ele somava 2 e 99, o resultado também era 101. O mesmo
+acontecia quando ele somava 3 e 98, 4 e 97, até eventualmente chegar no par 50 e
+51. Portanto ele concluiu: existem 50 pares e cada um soma 101, logo a resposta
+é 50 vezes 101, que é igual a 5050.
 
-Fonte: https://www.brynmawr.edu/cs/resources/beauty-of-programming
+Talvez esta história não seja real, mas ela certamente retrata um ponto
+fundamental: um grande matemático não resolve um problema do jeito chato e
+demorado porque ele vê o padrão do problema e faz uso do padrão para chegar à
+resposta do melhor jeito. O mesmo é verdade na Ciência da Computação. Claro,
+você poderia simplesmente mandar o computador somar todos os números de 1 a 100
+e ele completaria esta tarefa em menos de um piscar de olhos. Mas um grande
+programador chegaria à resposta de uma forma muito mais elegante. Ele saberia
+escrever um programa que atacaria o problema de uma forma diferente, mas que no
+final chegaria à resposta correta também.
+
+É difícil explicar o que pode ser tão fascinante em pensar sobre um problema por
+três dias, sem encontrar a forma bonita de resolvê-lo. Mas quando você encontra
+uma solução satisfatoriamente elegante para ele, é uma grande alegria!
+```
 
 ## Questão 2
 
-Escolha algum procedimento do seu dia-a-dia e escreva um algoritmo para ele.
+Escolha alguma tarefa do seu dia-a-dia e escreva um algoritmo para ela.
 
 ## Questão 3
 
