@@ -57,10 +57,11 @@ Escolha algum procedimento do seu dia-a-dia e escreva um algoritmo para ele.
 
 ## Questão 3
 
-Imagine que você tem dez garrafinhas pintadas e completamente opacas, de modo
-que é impossível ver seus interiores. Estas garrafinhas estão preenchidas por
-quantidades diferentes de areia, mas os pesos delas são tão parecidos que você
-não consegue dizer qual a mais pesada se segurar cada uma com uma mão.
+Imagine que, em uma sacola, você tem dez garrafinhas pintadas e completamente
+opacas, de modo que é impossível ver seus interiores. Estas garrafinhas estão
+preenchidas por quantidades diferentes de areia, mas os pesos delas são tão
+parecidos que você não consegue dizer qual a mais pesada se segurar cada uma com
+uma mão.
 
 O seu desafio é organizar estas garrafinhas em uma fileira, da mais leve (à
 esquerda) para a mais pesada (à direita). Sua ferramenta é uma balança que não
