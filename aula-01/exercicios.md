@@ -47,15 +47,16 @@ funcionalidade frequentemente é secundária em relação à elegância da solu�
 É um exercício de criatividade.
 
 Existe uma história a respeito do grande matemático alemão Carl Friedrich Gauss.
-O professor não sabia o que fazer e disse para seus alunos somarem todos os
-números de 1 a 100. O professor esperava que todos os alunos ficassem presos
-naquela atividade o dia inteiro, mas Gauss chegou com a resposta em 5 minutos:
-5050. Em sua solução, ele não somou todos os números. O que ele fez foi olhar
-o problema mais a fundo e perceber um padrão. Quando ele somava 1 e 100, o
-resultado era 101. Quando ele somava 2 e 99, o resultado também era 101. O mesmo
-acontecia quando ele somava 3 e 98, 4 e 97, até eventualmente chegar no par 50 e
-51. Portanto ele concluiu: existem 50 pares e cada um soma 101, logo a resposta
-é 50 vezes 101, que é igual a 5050.
+Quando ele ainda era criança e estava na escola, o professor não sabia o que
+fazer e disse para seus alunos somarem todos os números de 1 a 100. O professor
+esperava que todos os alunos ficassem presos naquela atividade o dia inteiro,
+mas Gauss chegou com a resposta em 5 minutos: 5050. Em sua solução, ele não
+somou todos os números, claro. O que ele fez foi olhar o problema mais a fundo e
+perceber um padrão. Quando ele somava 1 e 100, o resultado era 101. Quando ele
+somava 2 e 99, o resultado também era 101. O mesmo acontecia quando ele somava 3
+e 98, 4 e 97, até eventualmente chegar no par 50 e 51. Portanto ele concluiu:
+existem 50 pares e cada um soma 101, logo a resposta é 50 vezes 101, que é igual
+a 5050.
 
 Talvez esta história não seja real, mas ela certamente retrata um ponto
 fundamental: um grande matemático não resolve um problema do jeito chato e
@@ -69,7 +70,7 @@ final chegaria à resposta correta também.
 
 É difícil explicar o que pode ser tão fascinante em pensar sobre um problema por
 três dias, sem encontrar a forma bonita de resolvê-lo. Mas quando você encontra
-uma solução satisfatoriamente elegante para ele, é uma grande alegria!
+uma solução satisfatoriamente elegante, é uma grande alegria!
 ```
 
 ## Questão 2
