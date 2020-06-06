@@ -24,13 +24,13 @@ E isto é interessante por si só.
 
 Mas apenas obediência cega, embora inicialmente fascinante, obviamente não
 caracteriza uma companhia amigável. O que faz da programação algo tão
-interessante é que, embora você comandar o computador para fazer o que você
-quer, você precisa descobrir como.
+interessante é que, embora você possa comandar o computador para fazer o que
+você quer, você precisa descobrir como.
 
 Eu realmente penso que a Ciência da Computação e a Física têm muito em comum.
-Ambas áreas de conhecimento estudam o mundo em um nível muito fundamental. A
-diferença, claro, é que enquanto que na Física você quer descobrir como o mundo
-funciona, na Ciência da Computação você cria o mundo. Nos confins do computador
+Ambas as áreas de conhecimento estudam o mundo em um nível muito fundamental. A
+diferença, claro, é que enquanto na Física você quer descobrir como o mundo
+funciona, na Ciência da Computação você cria o mundo. Nos confins do computador,
 você é quem cria tudo e controla tudo que acontece. E se você tiver habilidade o
 suficiente, você tem bastante poder nas mãos.
 
@@ -48,15 +48,14 @@ funcionalidade frequentemente é secundária em relação à elegância da solu�
 
 Existe uma história a respeito do grande matemático alemão Carl Friedrich Gauss.
 Quando ele ainda era criança e estava na escola, o professor não sabia o que
-fazer e disse para seus alunos somarem todos os números de 1 a 100. O professor
-esperava que todos os alunos ficassem presos naquela atividade o dia inteiro,
-mas Gauss chegou com a resposta em 5 minutos: 5050. Em sua solução, ele não
-somou todos os números, claro. O que ele fez foi olhar o problema mais a fundo e
-perceber um padrão. Quando ele somava 1 e 100, o resultado era 101. Quando ele
-somava 2 e 99, o resultado também era 101. O mesmo acontecia quando ele somava 3
-e 98, 4 e 97, até eventualmente chegar no par 50 e 51. Portanto ele concluiu:
-existem 50 pares e cada um soma 101, logo a resposta é 50 vezes 101, que é igual
-a 5050.
+fazer e disse para seus alunos somarem todos os números de 1 a 100. Ele esperava
+que todos os alunos ficassem presos naquela atividade o dia inteiro, mas Gauss
+chegou com a resposta em 5 minutos: 5050. Em sua solução, ele não somou todos os
+números, claro. O que ele fez foi olhar o problema mais a fundo e perceber um
+padrão. Quando ele somava 1 e 100, o resultado era 101. Quando ele somava 2 e
+99, o resultado também era 101. O mesmo acontecia quando ele somava 3 e 98, 4 e
+97, até eventualmente chegar ao par 50 e 51. Portanto ele concluiu: existem 50
+pares e cada um soma 101, logo a resposta é 50 vezes 101, que é igual a 5050.
 
 Talvez esta história não seja real, mas ela certamente retrata um ponto
 fundamental: um grande matemático não resolve um problema do jeito chato e
@@ -72,6 +71,10 @@ final chegaria à resposta correta também.
 três dias, sem encontrar a forma bonita de resolvê-lo. Mas quando você encontra
 uma solução satisfatoriamente elegante, é uma grande alegria!
 ```
+
+Agora é a sua vez, mas não precisa escrever um texto. Por que programar lhe
+parece interessante? Como você imagina que a humanidade usará computadores daqui
+a 20 ou 30 anos?
 
 ## Questão 2
 
