@@ -77,18 +77,15 @@ O conhecimento relacionado à linguagem Python será adquirido aos poucos, com a
 finalidade de prover suporte às demonstrações de como os conceitos são aplicados
 na prática ao longo do curso.
 
-#### Condições, laços e funções
+#### Condições e laços
 
-No encontro do terceiro domingo, os participantes conhecerão mais três recursos
+No encontro do terceiro domingo, os participantes conhecerão mais dois recursos
 fundamentais para a construção de algoritmos:
 
 * Condições: possibilita a criação de bifurcações na lógica
 * Laços: viabiliza a execução comandos de forma repetitiva
-* Funções: facilita a transformação de um problema complexo em um conjunto de
-problemas simples a serem resolvidos de forma isolada
 
-#### Listas e revisão
-
-O encontro do quarto domingo terá como foco a apresentação de uma estrutura de
-dados chamada *lista*. Será também proposto um exercício cujo objetivo é
+#### Funções e revisão
+Visitaremos o conceito de funções, facilitam a transformação de um problema complexo em um conjunto de
+problemas simples a serem resolvidos de forma isolada. Será também proposto um exercício cujo objetivo é
 revisitar todas as ferramentas do curso.

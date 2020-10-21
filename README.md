@@ -18,6 +18,6 @@
 
 * Memória, variáveis e Python
 
-* Condições, laços e funções
+* Condições e laços
 
-* Listas e revisão
+* Funções e revisão
