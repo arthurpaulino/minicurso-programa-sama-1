@@ -8,3 +8,9 @@ Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/%C3%8Dndice_de_massa_corporal)
 
 Neste exercício, você precisa criar uma calculadora de IMC. O programa precisa informar ao usuário qual informação está sendo solicitada (peso ou altura). Após obter estas informações, o programa deve mostrar ao usuário o IMC resultante.
 
+A fórmula do IMC é:
+
+```
+IMC = peso / altura²
+```
+
