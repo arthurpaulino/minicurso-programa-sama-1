@@ -16,7 +16,11 @@
 
     * Material de apoio: [Editor markdown](https://markdown-editor.github.io/)
 
-* Memória, variáveis e Python
+* Memória e variáveis em Python
+
+    * [Slides](https://docs.google.com/presentation/d/1qe7xJvWEIf44GXLsffj1BWOhQwHQn2cQ0U8JScpQ7Z4/edit?usp=sharing)
+    
+    * [Exercício](aula-02/exercicio.md)
 
 * Condições e laços
 
