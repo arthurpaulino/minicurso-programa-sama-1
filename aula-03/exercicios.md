@@ -31,7 +31,7 @@ Um número é primo se os seus únicos divisores são o número 1 e ele mesmo. P
 
 Escreva um proframa que recebe um número do usuário e diz se ele é primo.
 
-# Questão 5
+## Questão 5
 
 Dizemos que dois números são primos entre si se o único divisor comum entre eles é o número 1. Por exemplo:
 
