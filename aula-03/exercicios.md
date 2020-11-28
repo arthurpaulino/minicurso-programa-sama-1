@@ -2,9 +2,13 @@
 
 ## Questão 1
 
-Escreva um programa que diga quantos múltiplos de 3 existem entre 1 e 871.
+Escreva um algoritmo que recebe três números do usuário e diz qual o valor do maior dos três.
 
 ## Questão 2
+
+Escreva um programa que diga quantos múltiplos de 3 existem entre 1 e 871.
+
+## Questão 3
 
 Um trio pitagórico é um grupo de três números que podem ser os comprimentos dos lados de um triângulo retângulo, ou seja, um triângulo tal que um dos seus ângulos é reto. O termo "pitagórico" é utilizado devido ao matemático Pitágoras, que trouxe para a humanidade um teorema que ficou conhecido como o Teorema de Pitágoras.
 
@@ -12,7 +16,7 @@ Segundo o Teorema de Pitágoras, dado um triângulo retângulo, o quadrado do co
 
 Escreva um programa que recebe três números do usuário e diga se estes números são pitagóricos.
 
-## Questão 3
+## Questão 4
 
 Um número quadrado perfeito é um número que é igual ao quadrado de algum número inteiro. Por exemplo:
 
@@ -22,7 +26,7 @@ Um número quadrado perfeito é um número que é igual ao quadrado de algum nú
 
 Escreva um programa que receba um número do usuário e diga se este é um quadrado perfeito.
 
-## Questão 4
+## Questão 5
 
 Um número é primo se os seus únicos divisores são o número 1 e ele mesmo. Por exemplo:
 
@@ -31,7 +35,7 @@ Um número é primo se os seus únicos divisores são o número 1 e ele mesmo. P
 
 Escreva um proframa que recebe um número do usuário e diz se ele é primo.
 
-## Questão 5
+## Questão 6
 
 Dizemos que dois números são primos entre si se o único divisor comum entre eles é o número 1. Por exemplo:
 
