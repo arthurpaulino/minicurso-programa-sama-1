@@ -16,12 +16,16 @@
 
     * Material de apoio: [Editor markdown](https://markdown-editor.github.io/)
 
-* Memória e variáveis em Python
+* Aula 2 - Memória e variáveis em Python
 
     * [Slides](https://docs.google.com/presentation/d/1qe7xJvWEIf44GXLsffj1BWOhQwHQn2cQ0U8JScpQ7Z4/edit?usp=sharing)
     
     * [Exercício](aula-02/exercicio.md)
 
-* Condições e laços
+* Aula 3 - Condições e Laços
+
+    * [Slides](https://docs.google.com/presentation/d/1VC6_KEeKSuV2HOaDzBEChQZU0hv5rDfyl3fjwCpmW_0/edit?usp=sharing)
+    
+    * [Exercícios](aula-03/exercicios.md)
 
 * Funções e revisão
