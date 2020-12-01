@@ -39,7 +39,7 @@ Escreva um proframa que recebe um número do usuário e diz se ele é primo.
 
 Dizemos que dois números são primos entre si se o único divisor comum entre eles é o número 1. Por exemplo:
 
-* 66 e 34 são primos entre si, pois o único divisor comum entre eles é o número 1
+* 75 e 34 são primos entre si, pois o único divisor comum entre eles é o número 1
 * 21 e 15 não são primos entre si porque ambos são divisíveis por 3, além do 1
 
 Escreva um programa que recebe dois números do usuário e diz se esses números são primos entre si.
