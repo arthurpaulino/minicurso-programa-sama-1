@@ -29,3 +29,8 @@
     * [Exercícios](aula-03/exercicios.md)
 
 * Funções e revisão
+
+    * [Slides](https://docs.google.com/presentation/d/1X18oKE94GaDK0_jg_3NKqAkezmOpXJs8DMLvxdXEoEQ/edit?usp=sharing)
+    
+    * [Exercícios](aula-04/exercicios.md)
+
